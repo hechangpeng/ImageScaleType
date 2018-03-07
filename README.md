@@ -1,0 +1,2 @@
+# ImageScaleType
+ImageView的ScaleType属性总结
